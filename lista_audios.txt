@@ -1,0 +1,193 @@
+Azu ARG F qj.wav
+Azu ARG F z.wav
+Azu ARG F.wav
+Azu ARG M qj.wav
+Azu ARG M z.wav
+Azu ARG M.wav
+Azu COL F qj.wav
+Azu COL F z.wav
+Azu COL F.wav
+Azu COL M qj.wav
+Azu COL M z.wav
+Azu COL M.wav
+Azu DOM F qj.wav
+Azu DOM F z.wav
+Azu DOM F.wav
+Azu DOM M qj.wav
+Azu DOM M z.wav
+Azu DOM M.wav
+Azu ESP F qj.wav
+Azu ESP F z.wav
+Azu ESP F.wav
+Azu ESP M qj.wav
+Azu ESP M z.wav
+Azu ESP M.wav
+Azu MEX F qj.wav
+Azu MEX F z.wav
+Azu MEX F.wav
+Azu MEX M qj.wav
+Azu MEX M z.wav
+Azu MEX M.wav
+Ggl ESP F qj.wav
+Ggl ESP F z.wav
+Ggl ESP F.wav
+Ggl ESP M qj.wav
+Ggl ESP M z.wav
+Ggl ESP M.wav
+Ggl US F qj.wav
+Ggl US F z.wav
+Ggl US F.wav
+Ggl US M qj.wav
+Ggl US M z.wav
+Ggl US M.wav
+Gpt ARG F qj.unknown
+Gpt ARG F.unknown
+Gpt ARG M .unknown
+Gpt ARG M qj.unknown
+Gpt ARG M z.unknown
+Gpt COL F .unknown
+Gpt COL F qj.unknown
+Gpt COL F z.unknown
+Gpt COL M qj.unknown
+Gpt COL M.unknown
+Gpt ESP F .unknown
+Gpt ESP F qj.unknown
+Gpt ESP F z.unknown
+Gpt ESP M 2.unknown
+Gpt ESP M qj.unknown
+Gpt ESP M z.unknown
+Gpt MEX F qj.unknown
+Gpt MEX F z.unknown
+Gpt MEX F.unknown
+Gpt MEX M z.unknown
+Gpt MEX M.unknown
+Grupo A
+Lbs ARG F qj.mp3
+Lbs ARG F z.mp3
+Lbs ARG F.mp3
+Lbs ARG M G qj.mp3
+Lbs ARG M G z.mp3
+Lbs ARG M G.mp3
+Lbs COL F qj.mp3
+Lbs COL F z.mp3
+Lbs COL F.mp3
+Lbs COL M 2.mp3
+Lbs COL M qj 2.mp3
+Lbs COL M qj.mp3
+Lbs COL M z 2.mp3
+Lbs COL M z.mp3
+Lbs COL M.mp3
+Lbs ESP F qj.mp3
+Lbs ESP F z.mp3
+Lbs ESP F.mp3
+Lbs ESP M G qj.mp3
+Lbs ESP M G z.mp3
+Lbs ESP M G.mp3
+Lbs ESP M qj.mp3
+Lbs ESP M z.mp3
+Lbs ESP M.mp3
+Lbs MEX F qj.mp3
+Lbs MEX F z.mp3
+Lbs MEX F.mp3
+Lbs MEX M qj.mp3
+Lbs MEX M z.mp3
+Lbs MEX M.mp3
+Lbs MEX qj.mp3
+Lbs US F 1.mp3
+lista_audios.txt
+Ply ESP F G qj.mp3
+Ply ESP F G z.mp3
+Ply ESP F G.mp3
+Ply ESP F L qj.mp3
+Ply ESP F L z.mp3
+Ply ESP F L.mp3
+Ply ESP F N qj.mp3
+Ply ESP F N z.mp3
+Ply ESP F N.mp3
+Ply ESP F R qj.mp3
+Ply ESP F R z.mp3
+Ply ESP M G qj.mp3
+Ply ESP M G z.mp3
+Ply ESP M G.mp3
+Ply ESP M L alegr¡a.mp3
+Ply ESP M L qj.mp3
+Ply ESP M L z.mp3
+Ply ESP M L.mp3
+Ply ESP M N qj.mp3
+Ply ESP M N z.mp3
+Ply ESP M N.mp3
+Ply ESP M R qj (1).mp3
+Ply ESP M R qj.mp3
+Ply ESP M R z.mp3
+Ply Esp M R.mp3
+Ply MEX F G qj.mp3
+Ply MEX F G z.mp3
+Ply MEX F G.mp3
+Ply MEX F N qj.mp3
+Ply MEX F N z.mp3
+Ply MEX F N.mp3
+Ply MEX F R qj.mp3
+Ply MEX F R z.mp3
+Ply MEX F R.mp3
+Ply MEX G.mp3
+Ply MEX M G qj.mp3
+Ply MEX M G z.mp3
+Ply MEX M N qj.mp3
+Ply MEX M N z.mp3
+Ply MEX M N.mp3
+Ply US F G qj.mp3
+Ply US F G z.mp3
+Ply US F G.mp3
+Ply US F N qj.mp3
+Ply US F N z.mp3
+PLY US F N.mp3
+Ply US F R qj.mp3
+Ply US F R z.mp3
+Ply US F R.mp3
+Ply US M G qj.mp3
+Ply US M G z.mp3
+Ply US M G.mp3
+Ply US M N qj.mp3
+Ply US M N z.mp3
+Ply US M N.mp3
+Ply US M R qj.mp3
+Ply US M R z.mp3
+Ply US M R.mp3
+Polly ESP F R.mp3
+Real CUB F .opus
+Real CUB F qj.wav
+Real CUB qj.opus
+Real CUB z.opus
+Real-ARG-M-.wav
+Real-CUB-qj.wav
+Real-ECU-F-qj.wav
+Real-ECU-F-z.wav
+Real-ECU-F.wav
+Reale CUB F z.wav
+Reale CUB F.wav
+Reale-ECU-F-z.wav
+Rreal-CUB-F-z.wav
+Rreal-CUB-F.wav
+Rs ARG F qj.wav
+Rs ARG F z.wav
+Rs ARG F.wav
+Rs COL F qj.wav
+Rs COL F z.wav
+Rs COL F.wav
+RS MEX F qj.wav
+RS MEX F.wav
+Vinz ARG F qj.wav
+Vinz ARG M qj.wav
+Vinz ARG M z.wav
+Vinz COL M qj.wav
+Vinz COL M z.wav
+Vinz COL M.wav
+Vinz ESP F qj.wav
+Vinz ESP F z.wav
+Vinz ESP F.wav
+Vinz ESP M qj.wav
+Vinz ESP M z.wav
+Vinz ESP M.wav
+Vinz MEX F z.wav
+Vinz MEX M qj (yago).wav
+Vinz MEX M z (yago).wav
